@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/productdb
-    username: superUser
-    password: admin
+    username: postgres
+    password: postgres
 app:
   write:
     enabled: false
